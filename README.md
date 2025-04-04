@@ -1,7 +1,6 @@
 <html>
     <head>
         <meta charset='utf-8'>
-        <title>Инфо Звова</title>
     </head>
     <body>
         <div class="info">
